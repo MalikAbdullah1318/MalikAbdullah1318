@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Muhammad Abdullah<br><br>💻 Full-Stack Developer<br>🛠️ IT Entrepreneur<br>🔒 Cybersecurity Enthusiast<br>🌐 I build web apps, dashboards, SaaS platforms & automation tools<br>💻 Tech Stack: Laravel, Bootstrap, PHP, MySQL, Python<br>🎯 Currently working on: AI chatbots, accounting systems & scalable web apps
+# 💫 About Me:
+👋 Hi, I’m Muhammad Abdullah<br><br>💻 Full-Stack Developer<br>🛠️ IT Entrepreneur<br>🔒 Cybersecurity Enthusiast<br>🌐 I build web apps, dashboards, SaaS platforms & automation tools<br>💻 Tech Stack: Laravel, Bootstrap, PHP, MySQL, Python<br>🎯 Currently working on: AI chatbots, accounting systems & scalable web apps
 
 
 ## 🌐 Socials:
