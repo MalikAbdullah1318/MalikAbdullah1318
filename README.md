@@ -1,15 +1,60 @@
-# 💫 About Me:
-👋 Hi, I’m Muhammad Abdullah<br><br>💻 Full-Stack Developer<br>🛠️ IT Entrepreneur<br>🔒 Cybersecurity Enthusiast<br>🌐 I build web apps, dashboards, SaaS platforms & automation tools<br>💻 Tech Stack: Laravel, Bootstrap, PHP, MySQL, Python<br>🎯 Currently working on: AI chatbots, accounting systems & scalable web apps
+# Muhammad Abdullah
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010566902471) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/malikabd_18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-286793292/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malikabdullah1318@gmail.com) 
-
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+Laravel developer specialising in ERP systems, accounting software, and business SaaS.  
+3 years building production systems for UAE-based clients across real estate, retail, hospitality, and transport.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MalikAbdullah1318&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I build
+
+I don't build todo apps or tutorial projects. I build software that businesses actually run on:
+
+- **ERP & POS systems** — multi-variant inventory, FIFO stock tracking, purchase orders, GRN, multi-warehouse management
+- **Accounting suites** — double-entry logic, chart of accounts, P&L, balance sheet, trial balance, VAT reports, bank reconciliation
+- **Plugin-based Laravel architecture** — a WordPress-style plugin system I built from scratch for Laravel apps
+- **REST APIs for mobile backends** — Laravel APIs powering iOS apps used daily by real estate and stable management clients
+- **Directory & marketplace platforms** — listing systems with advanced filters, seller dashboards, ads modules, bulk upload
+
+---
+
+## Open source work
+
+| Package | Description | Status |
+|---|---|---|
+| [laravel-accounting](https://github.com/MalikAbdullah1318/laravel-accounting) | Double-entry accounting package for Laravel | Coming soon |
+| [laravel-plugin-manager](https://github.com/MalikAbdullah1318/laravel-plugin-manager) | WordPress-style plugin system for Laravel apps | Coming soon |
+| [laravel-admin-starter](https://github.com/MalikAbdullah1318/laravel-admin-starter) | Production-ready admin panel with roles, permissions, DataTables | Coming soon |
+| [laravel-sanctum-api-starter](https://github.com/MalikAbdullah1318/laravel-sanctum-api-starter) | Clean API boilerplate with Sanctum, versioning, response formatting | Coming soon |
+
+---
+
+## Production projects (private — client work)
+
+These are production systems I built professionally. Code is private but full descriptions are on my LinkedIn.
+
+**Fajri POS** — ERP-grade point of sale with multi-variant products, FIFO stock tracking, purchase orders, GRN, multi-warehouse, and full selling module  
+**Accounting Plugin** — Complete accounting suite (chart of accounts, P&L, balance sheet, trial balance, VAT, bank reconciliation) built as a reusable Laravel plugin  
+**Laravel Plugin Manager** — WordPress-style plugin management system I built and use across multiple client projects  
+**Holiday Homes** — Property booking and management system with deposit handling, owner dashboards, and chart-of-accounts-based financials  
+**Scan UAE** — Online directory and classifieds platform for UAE market covering motors, property, jobs, and classifieds  
+**Truck1** — Heavy machinery marketplace with advanced filters, seller dashboards, ads module, and bulk upload  
+**Yousco Real Estate App** — Laravel API backend for an iOS app serving financial dashboards, cheque management, and property data  
+**Al-Ali Stable App** — Laravel API backend for an iOS app serving sales, collections, expenses, and receivables data  
+
+---
+
+## Tech stack
+
+```
+Backend     Laravel · PHP · MySQL · REST APIs · Laravel Sanctum · Spatie Permissions
+Frontend    Bootstrap · JavaScript · Yajra DataTables
+Tools       DomPDF · Laravel Scout · Git
+```
+
+---
+
+## Connect
+
+- LinkedIn: [muhammad-abdullah-286793292](https://www.linkedin.com/in/muhammad-abdullah-286793292/)
+- Email: malikabdullah1318@gmail.com
+- Location: Gujrat, Punjab, Pakistan — open to remote work
