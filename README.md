@@ -23,7 +23,7 @@ I don't build todo apps or tutorial projects. I build software that businesses a
 |---|---|---|
 | [laravel-accounting](https://github.com/MalikAbdullah1318/laravel-accounting) | Double-entry accounting package for Laravel | Coming soon |
 | [laravel-plugin-manager](https://github.com/MalikAbdullah1318/laravel-plugin-manager) | WordPress-style plugin system for Laravel apps | Coming soon |
-| [laravel-admin-starter](https://github.com/MalikAbdullah1318/laravel-admin-starter) | Production-ready admin panel with roles, permissions, DataTables | Coming soon |
+| [laravel-admin-starter]([https://github.com/MalikAbdullah1318/laravel-admin-starter](https://github.com/MalikAbdullah1318/adminpanalstarterkit)) | Production-ready admin panel with roles, permissions, DataTables | Coming soon |
 | [laravel-sanctum-api-starter](https://github.com/MalikAbdullah1318/laravel-sanctum-api-starter) | Clean API boilerplate with Sanctum, versioning, response formatting | Coming soon |
 
 ---
